@@ -6,8 +6,8 @@ For this project, I analyzed a dataset containing **937K websites** using **211 
 Here are some key insights from my analysis:
 
 **Top Technologies:**
-
 **Google Analytics** leads by a substantial margin, used on 37% of Romanian websites.
+
 **WordPress** follows at 27%, while **WooCommerce** supports 7%, 
 
 **Technology Usage by Category:**
